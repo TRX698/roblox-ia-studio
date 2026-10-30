@@ -1,0 +1,7 @@
+{
+  "name": "roblox-ia-studio",
+  "version": "1.0.0",
+  "private": true,
+  "engines": { "node": ">=20.6" },
+  "scripts": { "start": "node server.js", "dev": "node --env-file=.env server.js" }
+}
